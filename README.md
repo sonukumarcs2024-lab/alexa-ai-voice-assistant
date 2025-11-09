@@ -1,6 +1,3 @@
-#alexa aiREADME.m voce assistant
-# hey i'm making a new alexa ai voice assistant to do your work with very easily.
-#[Alexa AI Assistant.sonu kumar.html](https://github.com/user-#attachments/files/23440350/Alexa.AI.Assistant.sonu.kumar.html)
 <!DOCTYPE html>
 <!-- saved from url=(0029)http://127.0.0.1:5500/ok.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
