@@ -1,6 +1,4 @@
-# alexa-ai-voice-assistant
-
-[Alexa AI Assistant.sonu kumar.html](https://github.com/user-attachments/files/23440280/Alexa.AI.Assistant.sonu.kumar.html)
+[Uploading Alexa AI Assistant.sonu kumar.html…]()
 <!DOCTYPE html>
 <!-- saved from url=(0029)http://127.0.0.1:5500/ok.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,7 +11,7 @@
 <body>
     <div class="container">
         <h1>Alexa - Your Web Voice Assistant</h1>
-        <div id="chat-box"><div class="message bot">Alexa: Hello, I am Alexa. Click the mic and talk to me!</div><div class="message bot">Alexa: Listening...</div><div class="message user">You: Listening Who are you?</div><div class="message bot">Alexa: Hmm, I didn’t catch that. Can you repeat?</div><div class="message bot">Alexa: Listening...</div><div class="message user">You: Listening, I am fine.</div><div class="message bot">Alexa: Hmm, I didn’t catch that. Can you repeat?</div><div class="message bot">Alexa: Listening...</div><div class="message user">You: Listening.</div><div class="message bot">Alexa: Hmm, I didn’t catch that. Can you repeat?</div></div>
+        <div id="chat-box"><div class="message bot">Alexa: Hello, I am Alexa. Click the mic and talk to me!</div></div>
         <button id="mic-btn">🎤 Talk</button>
     </div>
 
